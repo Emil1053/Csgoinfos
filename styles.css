@@ -9,12 +9,14 @@ header {
 	top: 100px;
 	font-size: 100px;
 	font-family: 'Dongle', sans-serif;
-	color: DeepSkyBlue;
-
+	color: SlateGrey;
+	background-color: Indigo;
+	
 }
 
 html {
 	font-family: sans-serif;
+	background-color: Gold;
 }
 
 .opisanya {
@@ -33,4 +35,13 @@ html {
 footer{
 	background-color: black;
 	color: white;
+}
+
+.vopros1{
+	font-size: 64px;
+	background-color: RoyalBlue;
+}
+
+.vopros11{
+	background-color: Coral;
 }
